@@ -4,6 +4,6 @@ class Main
 {
     void Main (string[] args)
     {
-        Console.WriteLine("Hello world");
+        Console.WriteLine("Comment was added");
     }
 }
